@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+I'm +Vipin+Kumar;Aspiring+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm +Vipin+Kumar;Aspiring+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
 </h3>
 <hr/>
      <div style="display:flex">
