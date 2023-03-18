@@ -1,6 +1,6 @@
 ### Hi, I'm Vipin Kumar 👋
 
-Full Stack Web Developer
+<sup> Full Stack Web Developer </sup>
 
 <!--
 **Vipin4147/Vipin4147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
