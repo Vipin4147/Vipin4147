@@ -13,7 +13,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </p>
 </div>
 <hr/>
--------
+
 
 - 🌱 I’m currently learning **Nodejs backend development**
 - 💬 Ask me about **JavaScript, NodeJS, ExpressJS, MongoDB, MySQL**
