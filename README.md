@@ -6,7 +6,7 @@
     <p align="left" style="max-width:40%">
 From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
 
-I am skilled in HTML, CSS, Javascript, NodeJS, ExpressJs, Mongodb. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, Javascript, NodeJS, ExpressJS, MongoDB. I am good in data structure and algorithms.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
