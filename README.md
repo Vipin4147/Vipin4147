@@ -18,7 +18,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 🌱 I’m currently learning **Nodejs backend development**
 - 💬 Ask me about **JavaScript, NodeJS, ExpressJS, MongoDB, MySQL**
 - 📫 How to reach me **[vipin4147@gmail.com](mailto:vipin4147@gmail.com)**
-- 📄 Know about my experiences **[RESUME](https://www.canva.com/design/DAFctMPXPbE/F_8ablPWCrhI2v1iD1ca-A/view?utm_content=DAFctMPXPbE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+- 📄 Know about my experiences **[RESUME](https://drive.google.com/file/d/18qdmdCGQ9DXzhDSLvCs2cDsrbRpzLtlG/view?usp=sharing)**
 - 👨‍💻 Checkout my portfolio here **[Vipin4147.github.io](https://Vipin4147.github.io/)**
 ## 🌐 Socials (Let's connect)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-singh-97b21918b/)
